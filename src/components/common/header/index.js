@@ -14,7 +14,7 @@ const Header = () => {
           <div className="location-wrapper">
             <div className="location-icon-name">
               <i className="fi fi-rr-marker absolute-center location-icon"></i>
-              <div>Bangalore</div>
+              <div>Pune</div>
             </div>
             <i className="fi fi-rr-caret-down absolute-center"></i>
           </div>
@@ -34,7 +34,7 @@ const Header = () => {
             className="header-profile-image"
             alt="Profile"
           />
-          <span className="header-username">Shuvam</span>
+          <span className="header-username">Abhishek</span>
           <i className="fi fi-rr-angle-small-down absolute-center profile-options-icon"></i>
         </div>
       </div>
